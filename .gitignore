@@ -36,3 +36,6 @@ drafts/personal/
 # Temporary files
 *.tmp
 *.bak
+
+# Отдельный репозиторий (демо-материал), не часть канала
+technical-content-standards/
