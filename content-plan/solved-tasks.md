@@ -17,17 +17,17 @@
 | Group Anagrams | 49 | пример в обзоре | Сортировки / хеш-мапа | `2026-06-20-classic-sorting-problems.md` |
 | Валидные скобки (Valid Parentheses) | 20 | классика | Стек | `2026-06-24-stack-brackets-task.md`, `-solution-part1/2.md` |
 | Валидные скобки с особым правилом (порядок не важен) | нет аналога | rtlab (Госуслуги) | Стек | `week_stack_tuesday_task.md`, `week_stack_tuesday_solution.md` |
-| Daily Temperatures | 739 | пост про жару в Лондоне | Монотонный стек | `2026-06-27-monotonic-stack.md`, разбор в `scheduled/2026-07-03-daily-temperatures-razbor.md` |
+| Daily Temperatures | 739 | пост про жару в Лондоне | Монотонный стек | `2026-06-27-monotonic-stack.md`, `2026-07-03-daily-temperatures-razbor.md` |
 | Merge Sorted Array | 88 | Яндекс, Авито, ВК (по личной статистике) | Два указателя с конца | `2026-07-09-merge-sorted-array-task.md`, `merge-sorted-array-solution.md` |
 | Merge Two Sorted Lists | 21 | Яндекс | Связные списки | `merge-two-lists-task.md`, `merge-two-lists-solution.md` |
 | Сумма подпоследовательности равна `k`, три версии (непрерывная и без минусов / с минусами / не непрерывная) | близко к 560 и 209 | Т-Банк | Скользящее окно, префиксные суммы, backtracking | `2026-08-11-subarray-sum-three-versions.md` |
 | Intersection of Two Linked Lists | 160 | обещано на вебинаре про списки | Связные списки (два указателя, нода ≠ значение) | `2026-11-16-linked-list-intersection-razbor.md` |
+| Восстановление маршрута по перемешанным парам городов | 1743 (Restore the Array From Adjacent Pairs) | Яндекс | Хеш-мапа соседей, обход цепочки | `2026-11-09-cities-route-task.md`, `2026-11-10-cities-route-razbor.md` |
 
 ## Запланированные (`posts/scheduled/`)
 
 | Задача | LeetCode | Компания | Паттерн | Файл |
 |--------|----------|----------|---------|------|
-| Daily Temperatures, разбор | 739 | см. выше | Монотонный стек | `2026-07-03-daily-temperatures-razbor.md` |
 | Кинотеатр: самое удалённое место (Maximize Distance to Closest Person) | 849 | Яндекс (мок), ранее ВК | Один проход, края ряда | `2026-21-07.md` |
 
 ## Черновики (`posts/draft/`), не опубликованы
@@ -38,7 +38,6 @@
 | Кинотеатр, разбор | 849 | Яндекс | Один проход | `2026-22-07-kinoteatr-razbor.md` |
 | Пара с суммой `target` в отсортированном массиве (в посте об ошибке) | 167 / 1 | пример | Два указателя | `week_twop_wednesday_mistake.md` |
 | Три разбора задачи про сумму | см. выше | Т-Банк | Окно / префиксы / backtracking | `subarray-razbor-1-window.md`, `-2-prefix.md`, `-3-backtracking.md` |
-| Восстановление маршрута по перемешанным парам городов | 1743 (аналог, сверить номер) | Яндекс | Хеш-мапа соседей, обход цепочки | `cities-route-razbor.md` |
 | Minimum Window Substring | 76 | сквозная задача недели | Скользящее окно + словарь частот | `2026-08-28.md`, `week_minwindow_*.md` |
 
 ---
